@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Prototype에 관하여"
+date:   2016-03-15
+excerpt: "prototype link와 prototype object 그리고 프로토타입을 왜 사용할까?"
+tag:
+- prototype 
+comments: true
+---
+
 # prototype
 
 ---
