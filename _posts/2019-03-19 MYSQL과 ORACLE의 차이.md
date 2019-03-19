@@ -1,3 +1,15 @@
+---
+layout: post
+title:  "MYSQL과 ORACLE의 차이"
+date:   2019-03-19
+excerpt: "MYSQL과 ORACLE의 차이"
+tag:
+- sql
+- oracle
+- 데이터베이스
+comments: true
+---
+
 # MYSQL과 ORACLE의 차이
 
 ---
