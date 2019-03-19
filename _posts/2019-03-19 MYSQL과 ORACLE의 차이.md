@@ -1,3 +1,18 @@
+<<<<<<< HEAD
+=======
+---
+layout: post
+title:  "MYSQL과 ORACLE의 차이"
+date:   2019-03-19
+excerpt: "MYSQL과 ORACLE의 차이"
+tag:
+- sql
+- oracle
+- 데이터베이스
+comments: true
+---
+
+>>>>>>> ea5e7b88d5819da9166f959015023da95432b717
 # MYSQL과 ORACLE의 차이
 
 ---
@@ -70,4 +85,8 @@ ex) (MYSQL ) SELECT * FROM KGON LIMIT 0, 10
 
 ## 여덟번째로 **시퀀스사용시 다음번호 불러오는 방법**이 다릅니다.
 
+<<<<<<< HEAD
 ORACLE은 시퀀스명.NEXTVAL을 사용하지만 MYSQL은 시퀀스명.CURRVAL를 사용합니다.
+=======
+ORACLE은 시퀀스명.NEXTVAL을 사용하지만 MYSQL은 시퀀스명.CURRVAL를 사용합니다.
+>>>>>>> ea5e7b88d5819da9166f959015023da95432b717
